@@ -19,8 +19,6 @@ App
 - `Wizard` : This component manages the step-by-step process using `framer-motion` to add animation effects.
 
 <br>
-<br>
-<br>
 
 # Set up instruction
 
